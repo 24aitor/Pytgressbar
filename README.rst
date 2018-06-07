@@ -23,4 +23,4 @@ import pytgressbar
 Screenshots of example.py output
 --------------------------------
 
-.. image:: https://imgur.com/FfJAA0g
+.. image:: https://imgur.com/FfJAA0g.jpg
